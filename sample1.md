@@ -1,3 +1,4 @@
+
 <!-- Headings -->
 # Heading 1
 ## Heading 2
@@ -28,9 +29,9 @@ ___
 > This is a quote
 
 <!-- Links -->
-[Traversy Media](http://www.traversymedia.com)
+[Rabbi Reza](https://sm-rabbi-reza.netlify.app/)
 
-[Traversy Media](http://www.traversymedia.com "Traversy Media")
+[Rabbi Reza](https://sm-rabbi-reza.netlify.app/ "Nirzhor")
 
 <!-- UL -->
 * Item 1
